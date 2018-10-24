@@ -37,9 +37,9 @@ Um arquivo .dat é gerado na pasta raiz do programa para auditar basta arrastar 
 
 Através de um simples botão se mostra como é feito a fraude:
 
-    if voto = candidato{
+    if voto = candidato:
       candidato +=;
-    }
+    
 Através desse simples código pode-se adicionar um voto a um candidato.
 
 #
