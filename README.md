@@ -10,6 +10,10 @@ Funcional em linux(Debian).
 Windows 100% Estável.
 Linguagem utilizada : python, pascal. 
 
+Candidatos Cadastrados:
+13 - haddad
+17 - bolsonaro
+
 #
 **Propostas:**
 
